@@ -1,0 +1,142 @@
+body {
+    background-color: yellow;
+    margin: 0;
+}
+
+.first-box {
+    background-color: lightseagreen;
+    border: solid green 20px;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.intro {
+    text-align: center;
+    position: absolute;
+    right: 25%;
+    top: 25%;
+    width: 300px;
+}
+
+.q-all-quote{
+    font-size: 0.875em;
+}
+
+.q-all-full{
+    width: 20%;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translateX(-50%) translateY(-50%); 
+}
+
+.q-club {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) rotate(-30deg);
+}
+
+.q-heart {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) rotate(-10deg);
+    left: 10%;
+}
+
+.q-spade {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) rotate(10deg);
+    left: 15%;
+}
+
+.q-diamond {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) rotate(30deg);
+    left: 20%;
+}
+
+
+.second-box {
+    background-color: azure;
+    border: solid blue 20px;
+    padding: 20px 50px;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.background {
+    text-align: right;
+}
+
+.q-club-full{
+    width: 20%;
+    float: right;
+}
+
+.q-club-image {
+    width: 100%;
+}
+
+.q-club-quote {
+    text-align: right;
+}
+
+.third-box {
+    background-color: pink;
+    border: solid red 20px;
+    padding: 20px 50px;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.q-heart-full{
+    width: 20%;
+}
+
+.q-heart-image {
+    width: 100%;
+}
+
+.q-heart-quote {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+.q-club-full- {
+    width: 20%;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) ;
+}
+
+.q-club-image- {
+    width: 100%;
+}
+
+.q-club-quote- {
+    text-align: center;
+
+
+
+
+.background {
+    t
+}
